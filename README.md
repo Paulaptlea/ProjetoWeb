@@ -1,2 +1,2 @@
 # ProjetoWeb
-Nestas páginas estão todos os trabalhos da primeira unidade de Programador Web
+Conteúdo (slide) da primeira unidade de Programador Web.
